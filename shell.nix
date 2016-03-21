@@ -15,6 +15,7 @@ in nixpkgs.runCommand "shell" {
   buildInputs = [
     nixpkgs.nodejs
     nixpkgs.curl
+    nixpkgs.nix-serve
     ghc.cabal-install
     ghc.ghcid
     ghc.cabal2nix
