@@ -1,0 +1,8 @@
+Portable haskell dev environment
+
+servant-0.5
+reflex-dom
+
+1. install nix: curl https://nixos.org/nix/install | sh
+2. git clone https://github.com/karshan/nix-sandbox && cd nix-sandbox
+3. ./go
