@@ -1,5 +1,5 @@
 {
   url = git://github.com/karshan/ghcjs-servant-client;
-  rev = "81a5e2b60d4d5e5baeee2505e5c2b56d11fddf0a";
-  sha256 = "1rd11ch0zwj0lrly6yfgxs4nh61vnnmfh7p2la3szijszc7qapyn";
+  rev = "6b5a0157c8fd26f98efa5fb664cb92727bd8e247";
+  sha256 = "0bqvg0hjyxq816f17z8kh007zaqfb016h83qi8m0mb0vf4gfq4in";
 }

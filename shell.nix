@@ -19,5 +19,5 @@ in nixpkgs.runCommand "shell" {
     ghc.ghcid
     ghc.cabal2nix
   ] ++ [ (ghcjs.ghcWithHoogle (p: import ./packages.nix { haskellPackages = p; platform = "ghcjs"; })) ]
-    ++ [ (ghc.ghcWithHoogle (p: [ p.servant ])) ];
+    ++ [ (ghc.ghcWithHoogle (p: [ p.servant_0_5 ])) ];
 } ""
